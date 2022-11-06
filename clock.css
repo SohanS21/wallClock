@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    margin-left: 720px;
+    padding-top: 400px;
+}
+.clock{
+    color: navajowhite;
+    font-style: oblique;
+    font-size: 90px;
+    font-family: 'Orbitron';
+
+}
